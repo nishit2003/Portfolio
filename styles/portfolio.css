@@ -285,7 +285,7 @@ header .sticky ul li a.active::before{
 
 .home{
 	min-height: 100vh;
-	background-image: url(hero3.jpg);
+	background-image: url(../asset/hero3.jpg);
 	background-position: center;
 	background-size: cover;
 	padding: 15px;
