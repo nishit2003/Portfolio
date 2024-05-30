@@ -67,7 +67,7 @@ main.body-row{
 	font-size: 19px;
 	padding: 10px 0px 6px;
 	font-family: helvetica;
-	color: #444;
+	color: rgb(29, 36, 18);
 }
 .box p{
 	line-height: 1.2;
@@ -776,4 +776,8 @@ img {
 
 .resume-text{
 	margin-bottom: 20px;
+}
+
+.sub-heading{
+	font-weight: 550;
 }
