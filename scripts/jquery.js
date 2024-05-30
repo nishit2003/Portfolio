@@ -1,12 +1,4 @@
-$(document).ready(function() {
-    
-
-
-
-
-
-    
-	
+$(document).ready(function() {	
 	    $('.js-about-me-section').waypoint(function(direction){
         if (direction == "down") {
             $('.logo').addClass('sticky');
