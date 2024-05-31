@@ -1,5 +1,10 @@
 {
+  "homepage": "https://github.com/nishit2003/Portfolio.github.io",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "htmlhint": "^1.1.4"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d build"
   }
 }
