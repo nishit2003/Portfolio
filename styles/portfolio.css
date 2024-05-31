@@ -781,3 +781,34 @@ img {
 .sub-heading{
 	font-weight: 550;
 }
+
+
+/* **** */
+
+.outside-work {
+  margin-top: 50px;
+}
+
+.outside-work h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.outside-work-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.outside-work-item {
+  width: 48%;
+}
+
+.outside-work-item h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.outside-work-item p {
+  font-size: 16px;
+  line-height: 1.5;
+}
